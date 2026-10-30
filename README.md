@@ -1,5 +1,11 @@
 # AI Resume Analyzer
 
+🚀 **Live Demo:** 
+https://ai-resume-analyzer-3jslsqjf3wca9bkd5ivrx8.streamlit.app/
+
+💻 **GitHub Repository:**
+https://github.com/code-4fnan/AI-Resume-Analyzer
+
 An AI-powered Resume Analyzer built using a fine-tuned DistilBERT model.
 
 ## Features
